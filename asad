@@ -1,0 +1,24 @@
+[33mcommit 7b643109fdf9b2018af1c3daa7eb2d2729dfef49[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 742330f a19a7fc
+Author: Juvenal Carbajal <juvenal.carbajal@codellege.com>
+Date:   Thu Jul 25 19:00:25 2024 -0600
+
+    Merge branch 'main' of https://github.com/Lanevuj666/recetario
+
+[33mcommit 742330f410d1c995c1180722c099f6aca0e00634[m
+Author: Juvenal Carbajal <juvenal.carbajal@codellege.com>
+Date:   Thu Jul 25 18:58:48 2024 -0600
+
+    Se ajusta el nombre de URL para la procima receta
+
+[33mcommit a19a7fcfb778bd43a5e50b340ce20c2e986ae651[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Juvenal Carbajal <juvenal.carbajal@codellege.com>
+Date:   Thu Jul 25 18:50:25 2024 -0600
+
+    Se ajusta numero de personas en receta
+
+[33mcommit 800d8e5409ee4eaa865a3bea882ea9345794249e[m
+Author: Juvenal Carbajal <juvenal.carbajal@codellege.com>
+Date:   Thu Jul 25 15:51:42 2024 -0600
+
+    Se añade codigo base
